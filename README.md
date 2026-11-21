@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Deepak Deon 👋
 
-<!--
-**deepakdeon/deepakdeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Android Developer · Kotlin & Python.** I build apps, bots & websites.
+📍 Kochi, Kerala, India · 🌐 [deepakdeon.in](https://deepakdeon.in)
 
-Here are some ideas to get you started:
+> ### 👉 All my projects live on my main account: [@D30N](https://github.com/D30N)
+> This is my secondary account. Everything I build is published under **D30N**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- 📺 [YoutuW Live](https://github.com/D30N/YoutuWLive), YouTube subscriber tracker
+- 📸 [InstaW Live](https://github.com/D30N/InstaW-Live), Instagram profile viewer
+- 📄 [PdfToWord](https://github.com/D30N/PdfToWord), PDF to Word converter
+- 💰 [BorrowTrack](https://github.com/D30N/BorrowTrack), lending and borrowing tracker
+- 🎬 [MollywoodSearchBot](https://deepakdeon.in/mollywoodsearchbot/), Malayalam movie search app
+
+## Connect with me
+- 🌐 Website: [deepakdeon.in](https://deepakdeon.in)
+- ✈️ Telegram: [@DeonWrites](https://t.me/DeonWrites)
+- 📸 Instagram: [@deepak.deon](https://instagram.com/deepak.deon)
+- ▶️ YouTube: [Deon Talks](https://www.youtube.com/@deepak-deon)
